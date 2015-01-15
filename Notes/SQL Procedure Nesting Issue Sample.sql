@@ -1,7 +1,3 @@
-USE [NGDevl]
-GO
-
-/****** Object:  StoredProcedure [dbo].[IHC_Order_InProgress]    Script Date: 7/28/2014 10:00:55 AM ******/
 SET ANSI_NULLS ON
 GO
 
