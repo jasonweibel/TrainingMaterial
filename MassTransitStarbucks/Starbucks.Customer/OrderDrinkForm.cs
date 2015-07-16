@@ -14,20 +14,20 @@
 	{
 		private IServiceBus _bus;
 		private Guid _transactionId;
-        private UnsubscribeAction _unsubscribeToken;
+		private UnsubscribeAction _unsubscribeToken;
 
 		public OrderDrinkForm(IServiceBus bus)
 		{
 			InitializeComponent();
 
-		    _bus = bus;
+			_bus = bus;
 		}
 
 		private IServiceBus Bus
 		{
 			get
 			{
-                //todo bob
+				//todo bob
 //				if (_bus == null)
 //					_bus = ServiceLocator.Current.GetInstance<IServiceBus>();
 
