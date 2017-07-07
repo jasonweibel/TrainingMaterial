@@ -12,7 +12,7 @@ namespace Northwind.WCFContracts.FaultContracts
     /// Product Fault Exception:
     /// </para>
     /// </summary>
-    [DataContract(Name = "ProductFaultException", Namespace = "urn:principal.com:schemas:pgi:training:2013-02-11")]
+    [DataContract(Name = "ProductFaultException", Namespace = "urn:training.com:schemas:test:training:2013-02-11")]
     public class ProductFaultException
     {
 

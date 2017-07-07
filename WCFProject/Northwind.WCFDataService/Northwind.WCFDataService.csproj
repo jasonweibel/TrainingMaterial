@@ -85,7 +85,7 @@
   <ItemGroup>
     <Content Include="docs\LoggingDatabase.sql" />
     <Content Include="docs\NorthwindDataServiceHelpFile.shfbproj" />
-    <Content Include="docs\pgi_app_log.sql" />
+    <Content Include="docs\app_log.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ProjectExtensions>
